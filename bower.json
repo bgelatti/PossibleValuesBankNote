@@ -1,0 +1,24 @@
+{
+  "name": "PossibleValuesBankNote",
+  "version": "1.0.0",
+  "authors": [
+    "Bruno <bgelatti@gmail.com>"
+  ],
+  "description": "A package that given the existing banknotes and the amount to be paid, will return the possible values ​​that can be paid with the combination of banknotes.",
+  "main": "PossibleValuesBankNote.js",
+  "keywords": [
+    "values",
+    "possible",
+    "banknote",
+    "paid"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/bgelatti/PossibleValuesBankNote",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
